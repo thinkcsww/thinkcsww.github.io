@@ -7,10 +7,8 @@
 
 # Site settings
 title: 웅썬's 블로그
-email: your-email@domain.com
-description:  Write an awesome description for your new site here. You can edit this
-              line in _config.yml. It will appear in your document head meta (for
-              Google search results) and in your feed.xml site description.
+email: thinkcsw@gmail.com
+description:  이 블로그 웅썬님의 개발자 인생에 도움이 되는 블로그가 되길..
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thinkcsww.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
