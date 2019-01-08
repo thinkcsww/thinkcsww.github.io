@@ -128,9 +128,23 @@
 
 .post{
     .card-content{
-            padding: 80px 20px;
+        padding: 80px 20px;
+        width: 75%;
+        margin: 54px auto;
     }
 }
+
+h1 {
+    font-size: 4.0rem;
+    line-height: 1.2;
+    letter-spacing: -.1rem;
+    .post-title {
+        font-size: 4rem;
+        letter-spacing: 10px;
+        font-weight: 600;
+        margin-top: 50px;
+    }
+  }
 
 .footer-heading{
     display:block;
