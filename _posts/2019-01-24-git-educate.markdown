@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Github Private Repository를 사용하려면 매달 일정 금액을 지불해야 한다. 학생들은 학생 계정을 만들면 Private Repo를 무료로 사용할 수 있고 추가로 수 많은 혜택들을 누릴 수 있다. 
 
-`1 Github 계정`
+<h3>1 Github 계정</h3>
 깃허브 계정이 없다면 계정을 만들고 있다면 계정에 로그인 한다.
 
 `2 계정에 학생용 이메일을 추가한다.`
