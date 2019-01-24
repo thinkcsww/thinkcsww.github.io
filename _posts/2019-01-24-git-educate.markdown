@@ -15,7 +15,10 @@ Github Private Repository를 사용하려면 매달 일정 금액을 지불해�
 이메일로 가서 verify를 해준다.
 
 <h3>3 Student Pack 신청하기</h3>
-
+<figure class="half">
+   <a href="{{site.url}}/assets/github_student/git_student_1.jpg"><img src="{{site.url}}/assets/github_student/git_student_1.jpg"></a>
+   <figcaption>AWS Educate 선택</figcaption>
+</figure>
 https://education.github.com/pack 에 접
 속해서 학생용 계정으로 Student Pack을 신청한다.
 그러면 잠시 후 학생용 메일로 확인 메일이 온다.
