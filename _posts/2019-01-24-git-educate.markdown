@@ -9,17 +9,17 @@ Github Private Repository를 사용하려면 매달 일정 금액을 지불해�
 <h3>1 Github 계정</h3>
 깃허브 계정이 없다면 계정을 만들고 있다면 계정에 로그인 한다.
 
-`2 계정에 학생용 이메일을 추가한다.`
+<h3>2 계정에 학생용 이메일을 추가한다.</h3>
 
 학생용 이메일을 추가하면 학생용 이메일로 확인 메일이 온다. 
 이메일로 가서 verify를 해준다.
 
-`3 Student Pack 신청하기`
+<h3>3 Student Pack 신청하기</h3>
 
 https://education.github.com/pack 에 접
 속해서 학생용 계정으로 Student Pack을 신청한다.
 그러면 잠시 후 학생용 메일로 확인 메일이 온다.
 그리고 Github에서 private repository를 생성한다.
 
-끝
+<h2>끝</h2>
 
